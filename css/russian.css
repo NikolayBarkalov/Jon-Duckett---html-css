@@ -1,0 +1,43 @@
+body {
+    background-color: silver;
+    color: rgb(87, 231, 231);
+    padding: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    background-color: rgba(36, 107, 14, 0);
+    color: rgb(0, 0, 0);
+    padding-left: 0px;
+}
+
+p {
+    color: #000000;
+    padding-left: 30px;
+    margin: 0px;
+}
+
+p.bel {
+    background-color: white;
+    padding: 50px;
+}
+
+p.sin {
+    background-color: blue;
+    padding: 50px;
+}
+
+p.kras {
+    background-color: red;
+    padding: 50px;
+}
+
+p.ten {
+    background-color: rgb(0, 0, 0);
+    padding: 50px;
+}
+
+p.chet {
+    background-color: rgb(238, 255, 0);
+    padding: 50px;
+}
